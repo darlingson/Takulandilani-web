@@ -6,13 +6,9 @@
   
   <script>
   export default {
-    // WelcomeBanner component logic
   }
   </script>
   
   <style scoped>
-  .welcome-banner {
-    /* Styles for your welcome banner */
-  }
   </style>
   
