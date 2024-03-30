@@ -1,6 +1,8 @@
 <template>
     <div class="welcome-banner">
-      <h1>Welcome to My Nuxt.js App</h1>
+      <div class="container mx-auto">
+        <img src="~/assets/images/mulanje_mountain.jpeg" alt="Mulanje Mountain" class="w-full"/>
+      </div>
     </div>
   </template>
   
